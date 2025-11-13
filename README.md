@@ -1,2 +1,2 @@
 # mjwatzmedia.github.io
-Everything to build, run, and present Urania: iPhone-compatible Pepper’s Ghost stage (3D files); SOP to set up a Raspberry Pi 3 to install and loop the hologram video; a QR-triggered site with two teasers. Smartphone: loops hologram. Pi 3: projector autoplay teaser at startup.
+Everything needed to fabricate and exhibit Urania: an iPhone-compatible Pepper’s Ghost stage (3D files); a step-by-step SOP for setting up a Raspberry Pi 3 to install and loop the hologram video; and a QR-triggered website with two teaser cuts. Workflow: Smartphone → loops the mirrored hologram video for the stage; Raspberry Pi 3 → boots the projector into the feature teaser on autoplay at startup.
